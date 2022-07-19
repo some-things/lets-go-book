@@ -1,7 +1,5 @@
 # User section
-infra.sh
 notes.md
-base.sql
 
 # Binaries for programs and plugins
 *.exe
